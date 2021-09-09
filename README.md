@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+🌱 I'm Isaac Ghartey and I'm currently learning with GitHub
